@@ -2,5 +2,6 @@ const autos = {
     marca: "Ford",
     modelo: "Fiesta",
     anio: 2015,
-    color: "Azul"
+    color: "Azul",
+    vendido:false
 }
